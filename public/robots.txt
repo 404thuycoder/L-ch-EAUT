@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /schedule/week
+Disallow: /schedule/term
+Disallow: /schedule/exam
+Disallow: /logout
+
+Sitemap: https://lichhoc-eaut.vercel.app/sitemap.xml
